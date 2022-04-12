@@ -39,8 +39,9 @@ describe the use of the dot product, linear interpolation, and particle effect a
 these in game. Also include the names of your team members and the contributions from each
 team member.
 
-  1. Dot Product: used to position the Gargoyles GameObjects towards JohnLemon
+New Features:
+  - Dot Product: used to position the Gargoyles GameObjects towards JohnLemon
 
-  2. Linear Interpolation: used to minimize the light intensity as the game plays out (I did this based on time/deltaTime)
+  - Linear Interpolation: used to minimize the light intensity as the game plays out (I did this based on time/deltaTime)
 
-  3. Particle Effect: Added particle effects around the Ghost GameObjects
+  - Particle Effect: Added particle effects around the Ghost GameObjects

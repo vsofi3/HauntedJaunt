@@ -44,5 +44,7 @@ New Features:
   -  Reference: https://www.youtube.com/watch?v=6dkpq1BDCNY
 
   - Linear Interpolation: used to minimize the light intensity as the game plays out (I did this based on time/deltaTime).
+  - Reference: https://www.youtube.com/watch?v=Dl9iQ8UBi-g
 
   - Particle Effect: Added dark grey particle effects coming out of the Ghost GameObjects.
+  - Reference: https://www.youtube.com/watch?v=FEA1wTMJAR0

@@ -40,8 +40,8 @@ these in game. Also include the names of your team members and the contributions
 team member.
 
 New Features:
-  - Dot Product: used to Vector3.Dot to position the Gargoyles GameObjects towards JohnLemon
+  - Dot Product: used to Vector3.Dot to determine JohnLemon's location in relation to other GameObjects within my playerMovement script. 
 
-  - Linear Interpolation: used to minimize the light intensity as the game plays out (I did this based on time/deltaTime)
+  - Linear Interpolation: used to minimize the light intensity as the game plays out (I did this based on time/deltaTime).
 
-  - Particle Effect: Added dark grey particle effects coming out of the Ghost GameObjects
+  - Particle Effect: Added dark grey particle effects coming out of the Ghost GameObjects.

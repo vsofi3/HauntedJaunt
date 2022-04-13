@@ -43,7 +43,7 @@ New Features:
   - Dot Product: used to Vector3.Dot to determine JohnLemon's location in relation to Gargoyle GameObjects within a new Dot Product script (as a JohnLemon component). 
   -  Reference: https://www.youtube.com/watch?v=6dkpq1BDCNY
 
-  - Linear Interpolation: used to minimize the light intensity as the game plays out (I did this based on time/deltaTime).
+  - Linear Interpolation: 
   - Reference: https://www.youtube.com/watch?v=Dl9iQ8UBi-g
 
   - Particle Effect: Added dark grey particle effects coming out of the Ghost GameObjects.
